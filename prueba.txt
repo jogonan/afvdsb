@@ -1,5 +1,5 @@
 ##prueba de git
-
+añadido en origin main en github
 ##añadido diver 2
 
 ##añadido diver1
